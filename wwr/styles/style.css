@@ -106,6 +106,7 @@ h4 {
     margin: 200px 0;
 }
 
+
 .card-img {
     border: solid #D1E504 10px;
     transition: transform .5s;
@@ -231,6 +232,51 @@ footer .social img {
     padding-top: 15px;
 }
 
+
+#idaho-background {
+    height: 725px;
+    background-color: whitesmoke;
+    color: #0E3048;
+    grid-column: 1/11;
+    grid-row: 4/9;
+}
+
+.idaho-msg {
+    background-color: #0E3048;
+    color: white;
+    line-height: 1.5em;
+    padding: 35px;
+    grid-column: 2/6;
+    grid-row: 6/8;
+    box-shadow: 5px 5px 10px #D1E504;
+}
+
+.idaho-msg h2 {
+    color: white;
+    font-family: 'Teko','Helvetica','sans-serif';
+}
+
+.idaho-msg p {
+    color: white;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+
+.salmonriver {
+    width: 100%;
+    grid-column: 4/10;
+    grid-row: 5/10;
+    box-shadow: 5px 5px 10px #D1E504;
+}
+
+
+#grand-canyon-background {
+    height: 725px;
+    background-color: #0E3048;
+    color: white;
+    grid-column: 1/11;
+    grid-row: 4/9;
+}
 
 
 @media screen and (max-width: 900px) {

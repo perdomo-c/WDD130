@@ -21,9 +21,13 @@
         "Sainz",
         "Sakhir",
         "Tsunoda",
+        "undammed",
         "Valtteri",
         "Verstappen",
         "Yuki",
         "Zhou"
+    ],
+    "cSpell.ignoreWords": [
+        "salmonriver"
     ]
 }
